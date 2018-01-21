@@ -1,0 +1,8 @@
+beautifulsoup4==4.6.0
+lxml==4.1.1
+numpy==1.14.0
+requests==2.18.4
+torch==0.3.0.post4
+torchvision==0.2.0
+urllib3==1.22
+scikit-image==0.13.1
