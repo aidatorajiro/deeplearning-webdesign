@@ -129,3 +129,5 @@ train_imgs/*
 !train_imgs/.gitkeep
 vae_results/*
 !vae_results/.gitkeep
+dcgan_results/*
+dcgan_results/.gitkeep
